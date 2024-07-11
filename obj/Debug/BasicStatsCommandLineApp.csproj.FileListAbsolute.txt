@@ -1,0 +1,7 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\BasicStatsCommandLineApp\bin\Debug\BasicStatsCommandLineApp.exe.config
+C:\Users\nimith.shetty\Desktop\AproSCM\BasicStatsCommandLineApp\bin\Debug\BasicStatsCommandLineApp.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\BasicStatsCommandLineApp\bin\Debug\BasicStatsCommandLineApp.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\BasicStatsCommandLineApp\obj\Debug\BasicStatsCommandLineApp.csproj.AssemblyReference.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\BasicStatsCommandLineApp\obj\Debug\BasicStatsCommandLineApp.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\BasicStatsCommandLineApp\obj\Debug\BasicStatsCommandLineApp.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\BasicStatsCommandLineApp\obj\Debug\BasicStatsCommandLineApp.pdb
